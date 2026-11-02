@@ -219,7 +219,7 @@ class TextAdventure:
         command = ""
         running = True
 
-        self.write("Welcome to the dungeon!")
+        self.write("Welcome to Sewanee!")
         self.list_commands()
         self.look()
 
